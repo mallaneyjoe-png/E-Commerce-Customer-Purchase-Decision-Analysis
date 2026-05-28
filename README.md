@@ -19,16 +19,15 @@ Support product and merchandising decisions
 # Dataset Description
 The dataset contains customer-level information for an e-commerce company. The variables include demographic, behavioral, and product-related features.
 Key fields include:
-Gender
-Age
-EstimatedSalary
-Education_Level
-Region
-Employment_type
-Product_Category
-Time_Spent
-Num_of_children
-Purch_Attention
+Gender,
+Age,
+EstimatedSalary,
+Education_Level,
+Region,
+Employment_type,
+Product_Category,
+Time_Spent,
+Num_of_children,
 Purchased
 The target variable is Purchased, which indicates whether the customer completed a purchase.
 # Data Cleaning and Preprocessing
