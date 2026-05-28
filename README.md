@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Purchase-Decision-Analysis
+# E-Commerce-Customer-Purchase-Decision-Analysis (PurchATIL)
 Predictive analysis project using customer data from an e-commerce retail company to identify which users are most likely to purchase. The project uses Python to perform Logistical Regression, and Random Forest classification to analyze customer behavior, improve marketing targeting, and uncover key purchase drivers.
 # Project Overview
 This project analyzes customer data from an e-commerce company to predict whether a customer is likely to make a purchase. Based on the dataset, the company appears to operate in the fashion and retail merchandising space, with customer information related to demographics, income, employment type, product category, time spent, and purchase behavior.
