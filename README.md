@@ -86,4 +86,5 @@ The dataset does not include product price, website traffic source, purchase his
 This project uses customer data from an e-commerce company to predict whether a customer will make a purchase.
 We cleaned the data, filled missing numbers with the median, and filled missing categories with the mode. This helped us keep the full dataset instead of deleting rows with missing information.
 We then built two models: Logistic Regression and Random Forest. After comparing them, we used the results to see which model predicted purchases better and what customer factors seemed most connected to buying.
+
 Overall, this project helps show how data can be used to better understand customers and improve marketing decisions.
